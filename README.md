@@ -1,2 +1,2 @@
-# Caculator
-Simple program for calculation
+#Reversing a number
+Python program to reverse a number 
